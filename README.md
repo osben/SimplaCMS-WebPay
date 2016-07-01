@@ -7,5 +7,5 @@
 4. Заходим в раздел "Настройки > Оплата > Добавить способ оплаты" выбираем метод оплаты WebPay. Указываем Биллинг ID из кабинета WebPay, Секретный ключ (шаг 3),
 5. В личном кабинете WebPay в настройках компании заполняем поле "Секретный ключ" (из шаг 2).
 
-[Download]: <https://github.com/osben/SimplaCMS-WebPay>
+[Download]: <https://github.com/osben/SimplaCMS-WebPay/archive/master.zip>
 [Сайт webpay.by]: <https://webpay.by>
